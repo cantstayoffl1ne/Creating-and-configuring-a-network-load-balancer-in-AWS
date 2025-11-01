@@ -94,7 +94,7 @@ This repository documents my hands-on lab experience creating and configuring a 
 - Enabled cross-zone load balancing (if applicable)
   <img width="1898" height="849" alt="Screenshot 2025-11-01 125911" src="https://github.com/user-attachments/assets/c482f2de-7fd1-4f43-bc73-d671d534a81b" />
 
-<img width="1896" height="832" alt="Screenshot 2025-11-01 125853" src="https://github.com/user-attachments/assets/97aa289c-8e85-4441-af0c-b3737543b280" 
+<img width="1896" height="832" alt="Screenshot 2025-11-01 125853" src="https://github.com/user-attachments/assets/97aa289c-8e85-4441-af0c-b3737543b280" /> 
   <img width="1909" height="818" alt="Screenshot 2025-11-01 125940" src="https://github.com/user-attachments/assets/cd7c190a-ee84-4cf5-9526-1f96b7d4e126" />
 
 
