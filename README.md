@@ -1,4 +1,4 @@
-# Creating-and-configuring-a-network-load-balancer-in-AWS
+
 
 # Creating and Configuring a Network Load Balancer in AWS
 
@@ -128,11 +128,10 @@ This repository documents my hands-on lab experience creating and configuring a 
 
 ## 📊 Results
 
-[Add your specific results here, such as:]
-- Successfully distributed traffic across [X] EC2 instances
-- Achieved [X]% uptime during testing
+
+- Successfully distributed traffic across  EC2 instances
 - Health checks correctly identified unhealthy targets within [X] seconds
-- Load balancer DNS name: [your-nlb-dns-name.elb.amazonaws.com]
+- Load balancer DNS name: (http://mynetwork-lb-5abc32802b19a1aa.elb.us-east-1.amazonaws.com/)
 
 ## 🔐 Security Considerations
 
@@ -148,27 +147,7 @@ This repository documents my hands-on lab experience creating and configuring a 
 - Monitor NLB hours and data processed
 - Consider using Application Load Balancer if Layer 7 features are needed
 
-## 🚀 How to Reproduce
 
-1. **Prerequisites:**
-   - AWS Account with appropriate permissions
-   - Basic understanding of VPC, EC2, and networking concepts
-   - AWS CLI (optional) or AWS Console access
-
-2. **Clone this repository:**
-   ```bash
-   git clone https://github.com/[your-username]/aws-network-load-balancer-lab.git
-   cd aws-network-load-balancer-lab
-   ```
-
-3. **Follow the step-by-step guide** in the `/docs` folder (if applicable)
-
-4. **Use the provided CloudFormation template** (if you created one):
-   ```bash
-   aws cloudformation create-stack --stack-name nlb-lab \
-     --template-body file://nlb-stack.yaml \
-     --region us-east-1
-   ```
 
 ## 📸 Screenshots
 
