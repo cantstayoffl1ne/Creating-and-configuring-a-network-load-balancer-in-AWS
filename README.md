@@ -174,7 +174,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Dorien K**
-- GitHub:(https://github.com/your-username)](https://github.com/cantstayoffl1ne) 
+- GitHub:(https://github.com/cantstayoffl1ne) 
 
 
 
